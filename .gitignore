@@ -1,0 +1,49 @@
+# Dependencies
+node_modules/
+
+# Documentation
+docs/
+
+# Environment variables
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Build outputs
+dist/
+build/
+coverage/
+
+# Mobile (Expo/React Native)
+.expo/
+web-build/
+expo-env.d.ts
+.kotlin/
+*.orig.*
+*.jks
+*.p8
+*.p12
+*.key
+*.mobileprovision
+.metro-health-check*
+npm-debug.*
+yarn-debug.*
+yarn-error.*
+*.pem
+.env*.local
+*.tsbuildinfo
+
+# Mobile Native Projects
+mobile/ios/
+mobile/android/
